@@ -1,7 +1,7 @@
 ![logo](https://github.com/RonoroaRacist/RonoroaRacist/blob/main/My%20first%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Mishra</h1>
 <h3 align="center">A passionate Computer Science Learner</h3>
-<img align ="right" alt ="coder" width="400" src ="https://github.com/RonoroaRacist/RonoroaRacist/blob/main/ezgif.com-overlay.gif" >
+<img align ="center" alt ="coder" width="400" src ="https://github.com/RonoroaRacist/RonoroaRacist/blob/main/ezgif.com-overlay.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronoroaracist&label=Profile%20views&color=0e75b6&style=flat" alt="ronoroaracist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronoroaracist" alt="ronoroaracist" /></a> </p>
